@@ -1,4 +1,4 @@
-# DejaVu
+# DejaVu: Disambiguation evaluation dataset for English-JApanese machine translation on VisUal information
 English-Japanese caption dataset including word sense ambiguity for evaluation of multimodal machine translation.
 
 ## Dataset Overview
