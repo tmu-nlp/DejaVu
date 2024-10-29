@@ -13,11 +13,6 @@ The dataset is structured as follows:
 
 ```
 - dataset/
-  - images/
-      - 10055410.jpg
-      - 10149867.jpg
-      - ...
-  - index.txt
   - captions/
     - en/
       - template1.en
@@ -27,6 +22,11 @@ The dataset is structured as follows:
       - template1-1.ja
       - template1-2.ja
       - ...
+  - images/
+      - 10055410.jpg
+      - 10149867.jpg
+      - ...
+  - index.txt
 - README.md
 ```
 
